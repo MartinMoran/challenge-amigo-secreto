@@ -21,19 +21,27 @@ Ideal para rifas, amigo invisible o cualquier dinámica divertida. 😄
 
 ## 📂 Estructura básica
 📁 sorteo-amigos
+
  ├── assets
+
  ├── app.js
+ 
  ├── index.html
+ 
  ├── style.css
+ 
  └── README.md
 
-💻 Uso
+## 💻 Uso
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Haz clic en "Añadir".
 3. Cuando quieras sortear, presiona "Sortear amigo".
 4. Confirma si quieres reiniciar el juego.
 
-👨‍💻 Autor
+
+## 👨‍💻 Autor
 Martin Federico Moran
+
 📧 martinfmoran81@gmail.com
+
 🌐 https://github.com/MartinMoran
